@@ -4,7 +4,7 @@ title: Swim King — Privacy Policy
 
 # Swim King — Privacy Policy
 
-**Effective date:** 2026-06-11
+**Effective date:** 2026-06-15
 
 Swim King ("the app") is a casual mobile game developed by Robert Felter ("we", "us"). This policy describes what information the app handles and how.
 
@@ -26,7 +26,9 @@ This processing is governed by Google's own privacy policies, not ours. You can 
 - Google's Privacy & Terms: <https://policies.google.com/privacy>
 - How Google uses information from sites or apps that use our services: <https://policies.google.com/technologies/partner-sites>
 
-On iOS, you can disable cross-app tracking entirely via Settings → Privacy & Security → Tracking. On Android, you can reset or opt out of personalized advertising via Settings → Google → Ads.
+**iOS tracking permission.** The first time you open the app on iOS, Apple will display a system prompt asking whether to allow tracking. If you allow tracking, AdMob may serve ads personalized to your interests. If you deny tracking, you'll still see ads — they just won't be personalized and may pay us less per impression. You can change your choice at any time via Settings → Privacy & Security → Tracking → Swim King.
+
+On Android, you can reset or opt out of personalized advertising via Settings → Google → Ads.
 
 ## Children
 
